@@ -1,0 +1,10 @@
+[
+  {
+    "name": "CashCats",
+    "symbol": "CATS",
+    "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+    "chainId": 10000,
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1430533735007637507/2e7o_eg6_400x400.jpg"
+  }
+]

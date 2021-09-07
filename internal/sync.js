@@ -4,23 +4,15 @@ const { Octokit } = require("@octokit/rest");
 
 const octokit = new Octokit();
 
-const { ChainId } = require("@sushiswap/sdk");
+const { ChainId } = require("@mistswapdex/sdk");
 
 const fs = require("fs");
 
 const { resolve } = require("path");
 
 const NAME = {
-  [ChainId.MAINNET]: "mainnet",
-  [ChainId.FANTOM]: "fantom",
-  [ChainId.MATIC]: "matic",
-  [ChainId.XDAI]: "xdai",
-  [ChainId.BSC]: "bsc",
-  [ChainId.AVALANCHE]: "avalanche",
-  [ChainId.HECO]: "heco",
-  [ChainId.HARMONY]: "harmony",
-  [ChainId.OKEX]: "okex",
-  [ChainId.CELO]: "celo",
+  [ChainId.SMARTBCH]: "smartbch",
+  [ChainId.SMARTBCH_AMBER]: "smartbch_amber",
 };
 
 (async () => {
@@ -36,10 +28,10 @@ const NAME = {
 
       const tokens = require(path);
 
-      // Grab file file names of the sushiswap/icons repo at the token path
+      // Grab file file names of the mistswapdex/icons repo at the token path
       // we can use this to see if our default list is missing icons
       const { data } = await octokit.rest.repos.getContent({
-        owner: "sushiswap",
+        owner: "mistswapdex",
         repo: "icons",
         path: "token",
       });
@@ -71,9 +63,9 @@ const NAME = {
         }
 
         // Check if logoURI has correct path
-        if (!token.logoURI.includes("sushiswap/icons")) {
+        if (!token.logoURI.includes("mistswapdex/icons")) {
           // TODO: Automate this part...
-          const logoURI = `https://raw.githubusercontent.com/sushiswap/icons/master/token/${icon}.jpg`;
+          const logoURI = `https://raw.githubusercontent.com/mistswapdex/icons/master/token/${icon}.jpg`;
 
           console.log(`Update Logo URI for ${token.symbol} with ${logoURI}`);
         } else {
