@@ -1,10 +1,194 @@
 [
   {
     "name": "CashCats",
-    "symbol": "CATS",
     "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+    "symbol": "$CATS",
+    "decimals": 2,
     "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x265bD28d79400D55a1665707Fa14A72978FA6043/logo.png"
+  },
+  {
+    "name": "HAM Token",
+    "address": "0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
+    "symbol": "$HAM",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52/logo.png"
+  },
+  {
+    "name": "WRS Token",
+    "address": "0x445B3712A09f8102Dd0c1ffb6B3b0dE4D3B643b7",
+    "symbol": "$WRS",
+    "decimals": 6,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x445B3712A09f8102Dd0c1ffb6B3b0dE4D3B643b7/logo.png"
+  },
+  {
+    "name": "Bitcoin Cash Argentina",
+    "address": "0x675E1d6FcE8C7cC091aED06A68D079489450338a",
+    "symbol": "ARG",
     "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1430533735007637507/2e7o_eg6_400x400.jpg"
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x675E1d6FcE8C7cC091aED06A68D079489450338a/logo.png"
+  },
+  {
+    "name": "ART Token",
+    "address": "0x7855101ABC103C1F1aa0A8e5402C48678d0bd20C",
+    "symbol": "ART",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7855101ABC103C1F1aa0A8e5402C48678d0bd20C/logo.png"
+  },
+  {
+    "name": "Awesome Token",
+    "address": "0xC624D2bb7C9A27eB76919cdA82D1748Df2c7CAB1",
+    "symbol": "AWE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xC624D2bb7C9A27eB76919cdA82D1748Df2c7CAB1/logo.png"
+  },
+  {
+    "name": "Green Ben",
+    "address": "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B",
+    "symbol": "EBEN",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B/logo.png"
+  },
+  {
+    "name": "Falcon Token",
+    "address": "0x7040D89F8111dEe9D768F9D282CdD97FE5A4dAa8",
+    "symbol": "FLCT",
+    "decimals": 0,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7040D89F8111dEe9D768F9D282CdD97FE5A4dAa8/logo.png"
+  },
+  {
+    "name": "HODL",
+    "address": "0xB24D7763516bca9656779d760be9a32490f46E27",
+    "symbol": "HODL",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xB24D7763516bca9656779d760be9a32490f46E27/logo.png"
+  },
+  {
+    "name": "HONK",
+    "address": "0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd",
+    "symbol": "HONK",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd/logo.png"
+  },
+  {
+    "name": "Knuth",
+    "address": "0xc70c7718C7f1CCd906534C2c4a76914173EC2c44",
+    "symbol": "KNUTH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc70c7718C7f1CCd906534C2c4a76914173EC2c44/logo.png"
+  },
+  {
+    "name": "Lightning",
+    "address": "0xc2100c9486B320B6db2Fc6D1f2BeAAB713fF069D",
+    "symbol": "LIGHTNING",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc2100c9486B320B6db2Fc6D1f2BeAAB713fF069D/logo.png"
+  },
+  {
+    "name": "MAZE",
+    "address": "0x481De06DCA0198844faA36FCa04Db364e5c2f86C",
+    "symbol": "MAZE",
+    "decimals": 6,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x481De06DCA0198844faA36FCa04Db364e5c2f86C/logo.png"
+  },
+  {
+    "name": "ORB",
+    "address": "0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e",
+    "symbol": "ORB",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e/logo.png"
+  },
+  {
+    "name": "Alpha",
+    "address": "0x5a3bB59F34D60E9EB5643Fb80C8D712275F6a96A",
+    "symbol": "PHA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x5a3bB59F34D60E9EB5643Fb80C8D712275F6a96A/logo.png"
+  },
+  {
+    "name": "Smart BUSD",
+    "address": "0x9288df32951386A8254aEaF80a66B78cCaf75b82",
+    "symbol": "sBUSD",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x9288df32951386A8254aEaF80a66B78cCaf75b82/logo.png"
+  },
+  {
+    "name": "Scaffold Token",
+    "address": "0x836d1b6F07daD45bD6C870c24a4B32B78fDDDd34",
+    "symbol": "SCF",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x836d1b6F07daD45bD6C870c24a4B32B78fDDDd34/logo.png"
+  },
+  {
+    "name": "SPICE",
+    "address": "0xE11829A7D5d8806BB36E118461a1012588faFD89",
+    "symbol": "SPICE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xE11829A7D5d8806BB36E118461a1012588faFD89/logo.png"
+  },
+  {
+    "name": "sVNT Token",
+    "address": "0x8f66C730e383Bb412a9a3cB58178BAb2f432d194",
+    "symbol": "sVNT",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x8f66C730e383Bb412a9a3cB58178BAb2f432d194/logo.png"
+  },
+  {
+    "name": "UatX Token",
+    "address": "0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a",
+    "symbol": "UATX",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a/logo.png"
+  },
+  {
+    "name": "VANDALS",
+    "address": "0x2a886b947d5a8f0e09408C9069914Fa44C06ed7e",
+    "symbol": "VANDALS",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2a886b947d5a8f0e09408C9069914Fa44C06ed7e/logo.png"
+  },
+  {
+    "name": "ZOMBIE",
+    "address": "0x80453ACDfE0073D6743B27D72e06F48777EeAd80",
+    "symbol": "ZOMBIE",
+    "decimals": 0,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x80453ACDfE0073D6743B27D72e06F48777EeAd80/logo.png"
+  },
+  {
+    "name": "Art Token",
+    "address": "0x2618B5927957969B346E60694e77213923eb11e5",
+    "symbol": "ART",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2618B5927957969B346E60694e77213923eb11e5/logo.png"
+  },
+  {
+    "name": "Scaffold Token",
+    "address": "0x4cA751A20FE9b130c0fa598DA21348B20108f51a",
+    "symbol": "SCF",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4cA751A20FE9b130c0fa598DA21348B20108f51a/logo.png"
   }
 ]
