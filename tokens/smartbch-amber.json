@@ -1,2 +1,18 @@
 [
+  {
+    "name": "Art Token",
+    "address": "0x2618B5927957969B346E60694e77213923eb11e5",
+    "symbol": "ART",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2618B5927957969B346E60694e77213923eb11e5/logo.png"
+  },
+  {
+    "name": "Scaffold Token",
+    "address": "0x4cA751A20FE9b130c0fa598DA21348B20108f51a",
+    "symbol": "SCF",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4cA751A20FE9b130c0fa598DA21348B20108f51a/logo.png"
+  }
 ]
