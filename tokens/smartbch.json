@@ -62,5 +62,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3/logo.png"
+  },
+  {
+    "name": "Bitcoin Cash Argentina",
+    "address": "0x675E1d6FcE8C7cC091aED06A68D079489450338a",
+    "symbol": "ARG",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x675E1d6FcE8C7cC091aED06A68D079489450338a/logo.png"
   }
 ]
