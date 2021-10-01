@@ -54,5 +54,13 @@
     "decimals": 2,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd/logo.png"
+  },
+  {
+    "name": "FLEX Coin",
+    "address": "0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3",
+    "symbol": "FLEX",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3/logo.png"
   }
 ]
