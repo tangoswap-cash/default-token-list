@@ -78,5 +78,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xC41C680c60309d4646379eD62020c534eB67b6f4/logo.png"
+  },
+    {
+    "name": "LAW",
+    "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+    "symbol": "LAW",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
   }
 ]
