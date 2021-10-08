@@ -94,5 +94,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
+  },
+    {
+    "name": "KONRA",
+    "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+    "symbol": "KONRA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4F1480ba79F7477230ec3b2eCc868E8221925072/logo.png"
   }
 ]
