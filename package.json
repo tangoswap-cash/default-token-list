@@ -1,6 +1,6 @@
 {
   "name": "@mistswapdex/default-token-list",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "◦ The MISTswap default token list",
   "main": "build/mistswap-default.tokenlist.json",
   "scripts": {
