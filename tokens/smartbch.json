@@ -190,5 +190,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52/logo.png"
+  },
+  {
+    "name": "MILK",
+    "address": "0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0",
+    "symbol": "MILK",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0/logo.png"
   }
 ]
