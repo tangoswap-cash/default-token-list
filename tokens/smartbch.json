@@ -142,5 +142,13 @@
     "decimals": 2,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711/logo.png"
+  },
+  {
+    "name": "ShibaCash",
+    "address": "0x2f309b9D47b1Ce7f0ec30a26baB2dEaB8c4ea5E9",
+    "symbol": "Shiba",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2f309b9D47b1Ce7f0ec30a26baB2dEaB8c4ea5E9/logo.png"
   }
 ]
