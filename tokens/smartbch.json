@@ -95,12 +95,36 @@
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
   },
-    {
+  {
     "name": "KONRA",
     "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
     "symbol": "KONRA",
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4F1480ba79F7477230ec3b2eCc868E8221925072/logo.png"
+  },
+  {
+    "name": "Alpha",
+    "address": "0x5a3bB59F34D60E9EB5643Fb80C8D712275F6a96A",
+    "symbol": "PHA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x5a3bb59f34d60e9eb5643fb80c8d712275f6a96a/logo.png"
+  },
+  {
+    "name": "HODL",
+    "address": "0xB24D7763516bca9656779d760be9a32490f46E27",
+    "symbol": "HODL",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xB24D7763516bca9656779d760be9a32490f46E27/logo.png"
+  },
+  {
+    "name": "Zombie",
+    "address": "0x80453ACDfE0073D6743B27D72e06F48777EeAd80",
+    "symbol": "ZOMBIE",
+    "decimals": 0,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x80453acdfe0073d6743b27d72e06f48777eead80/logo.png"
   }
 ]
