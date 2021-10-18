@@ -209,11 +209,11 @@
   },
   {
     "name": "BCHPad",
-    "address": "0xe4EC235195aa1378567F4E8B301EAd6D90Aaa893",
+    "address": "0x9192940099fDB2338B928DE2cad9Cd1525fEa881",
     "symbol": "BPAD",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xe4EC235195aa1378567F4E8B301EAd6D90Aaa893/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x9192940099fDB2338B928DE2cad9Cd1525fEa881/logo.png"
   },
   {
     "name": "NomadCoin",
