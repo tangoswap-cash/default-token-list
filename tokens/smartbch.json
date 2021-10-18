@@ -198,5 +198,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0/logo.png"
+  },
+  {
+    "name": "Cheese",
+    "address": "0x09A4CDb1569563fF277aC457cED35fe2551aEC1D",
+    "symbol": "CHEESE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x09A4CDb1569563fF277aC457cED35fe2551aEC1D/logo.png"
   }
 ]
