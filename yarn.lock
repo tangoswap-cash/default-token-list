@@ -274,19 +274,6 @@
     "@ethersproject/constants" "^5.3.0"
     "@ethersproject/logger" "^5.3.0"
 
-"@mistswapdex/sdk@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@mistswapdex/sdk/-/sdk-0.0.2.tgz#de18c4308a99e5b310e6f40478a0c0a2a62b48f8"
-  integrity sha512-9wzUk+yFxV7p/B65XWU3aRs/111fswLucds8KzGmXa80vYZMjH9Q3qcovLAMF44fq3tGw1YVTaOJu4/rxUpd+w==
-  dependencies:
-    big.js "^6.1.0"
-    decimal.js-light "^2.5.0"
-    isomorphic-unfetch "^3.1.0"
-    jsbi "^3.1.0"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
-
 "@octokit/auth-token@^2.4.4":
   version "2.4.5"
   resolved "https://registry.yarnpkg.com/@octokit/auth-token/-/auth-token-2.4.5.tgz#568ccfb8cb46f36441fac094ce34f7a875b197f3"
@@ -387,6 +374,19 @@
   integrity sha512-OuQELiwIKeDySgNID52vm33wDRc2aaX8lKYgAw9Hmw939ITow1HspT8/AH3M3jgGFUMDmHlMNBNEmH7xV7ggXQ==
   dependencies:
     "@octokit/openapi-types" "^7.3.5"
+
+"@tangoswapcash/sdk@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@tangoswapcash/sdk/-/sdk-0.0.1.tgz#767b1e4479027e00113e2c9f59bee6972c466e69"
+  integrity sha512-e53rJxaVmb0PKuPaRcUzH2qiI2qAPCyZ0WPluSZEfBA2E9VLzg0rWsX/kbMzrGRyiYWFpPfzNrQAm2u/z5/2kA==
+  dependencies:
+    big.js "^6.1.0"
+    decimal.js-light "^2.5.0"
+    isomorphic-unfetch "^3.1.0"
+    jsbi "^3.1.0"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
 
 "@types/minimist@^1.2.0":
   version "1.2.2"

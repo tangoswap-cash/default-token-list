@@ -4,7 +4,7 @@ const { Octokit } = require("@octokit/rest");
 
 const octokit = new Octokit();
 
-const { ChainId } = require("@mistswapdex/sdk");
+const { ChainId } = require("@tangoswapcash/sdk");
 
 const fs = require("fs");
 
@@ -28,10 +28,10 @@ const NAME = {
 
       const tokens = require(path);
 
-      // Grab file file names of the mistswapdex/icons repo at the token path
+      // Grab file file names of the tangoswap-cash/icons repo at the token path
       // we can use this to see if our default list is missing icons
       const { data } = await octokit.rest.repos.getContent({
-        owner: "mistswapdex",
+        owner: "tangoswapcash",
         repo: "icons",
         path: "token",
       });
@@ -63,9 +63,9 @@ const NAME = {
         }
 
         // Check if logoURI has correct path
-        if (!token.logoURI.includes("mistswapdex/icons")) {
+        if (!token.logoURI.includes("tangoswap-cash/icons")) {
           // TODO: Automate this part...
-          const logoURI = `https://raw.githubusercontent.com/mistswapdex/icons/master/token/${icon}.jpg`;
+          const logoURI = `https://raw.githubusercontent.com/tangoswap-cash/icons/master/token/${icon}.jpg`;
 
           console.log(`Update Logo URI for ${token.symbol} with ${logoURI}`);
         } else {

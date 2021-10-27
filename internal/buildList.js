@@ -6,7 +6,7 @@ const bchAmber = require("../tokens/smartbch-amber.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "MISTswap Menu",
+    name: "TANGOswap Menu",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -15,8 +15,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/mistswapdex/art/master/mist/logo-256x256.png",
-    keywords: ["mistswap", "default"],
+      "https://raw.githubusercontent.com/tangoswap-cash/art/master/tango/logo-256x256.png",
+    keywords: ["tangoswap", "default"],
     tokens: [
       ...bch,
       ...bchAmber,
