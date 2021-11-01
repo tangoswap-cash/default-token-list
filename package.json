@@ -1,6 +1,6 @@
 {
   "name": "@tangoswapcash/default-token-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "◦ The TANGOswap default token list",
   "main": "build/tangoswap-default.tokenlist.json",
   "scripts": {
@@ -34,7 +34,7 @@
     "@commitlint/config-conventional": "^13.1.0",
     "@ethersproject/address": "^5.0.2",
     "@ethersproject/solidity": "^5.3.0",
-    "@tangoswapcash/sdk": "^0.0.1",
+    "@tangoswapcash/sdk": "^0.0.2",
     "@octokit/rest": "^18.6.2",
     "@uniswap/token-lists": "^1.0.0-beta.19",
     "ajv": "^6.12.3",
