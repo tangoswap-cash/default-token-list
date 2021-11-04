@@ -88,14 +88,6 @@
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
   },
   {
-    "name": "xMIST",
-    "address": "0xC41C680c60309d4646379eD62020c534eB67b6f4",
-    "symbol": "XMIST",
-    "decimals": 18,
-    "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xC41C680c60309d4646379eD62020c534eB67b6f4/logo.png"
-  },
-  {
     "name": "Potato Coin",
     "address": "0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0",
     "symbol": "POTA",
