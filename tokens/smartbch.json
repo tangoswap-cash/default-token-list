@@ -246,5 +246,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91/logo.png"
+  },
+  {
+    "name": "DOGEBCH",
+    "address": "0x741746C2Cf4117730d7f087e8492dF595b4fd283",
+    "symbol": "DOGE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x741746C2Cf4117730d7f087e8492dF595b4fd283/logo.png"
   }
 ]
