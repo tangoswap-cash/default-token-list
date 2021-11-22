@@ -230,5 +230,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E/logo.png"
+  },
+  {
+    "name": "Points",
+    "address": "0x71df12B5A718e0110991BB641cb379077d9e8Ef7",
+    "symbol": "PTS",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x71df12B5A718e0110991BB641cb379077d9e8Ef7/logo.png"
   }
 ]
