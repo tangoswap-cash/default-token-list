@@ -232,6 +232,38 @@
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E/logo.png"
   },
   {
+    "name": "Xolos",
+    "address": "0x49F9ECF126B6dDF51C731614755508A4674bA7eD",
+    "symbol": "RMZ",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x49F9ECF126B6dDF51C731614755508A4674bA7eD/logo.png"
+  },
+  {
+    "name": "Celery",
+    "address": "0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91",
+    "symbol": "CLY",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91/logo.png"
+  },
+  {
+    "name": "DOGEBCH",
+    "address": "0x741746C2Cf4117730d7f087e8492dF595b4fd283",
+    "symbol": "DOGE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x741746C2Cf4117730d7f087e8492dF595b4fd283/logo.png"
+  },
+  {
+    "name": "SmartBCH Token Observer",
+    "address": "0xAFACB0004A91267b58e720E13DF570Dc6863c854",
+    "symbol": "STO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png"
+  },
+  {
     "name": "Points",
     "address": "0x71df12B5A718e0110991BB641cb379077d9e8Ef7",
     "symbol": "PTS",
