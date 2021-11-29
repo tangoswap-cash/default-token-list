@@ -262,5 +262,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png"
+  },
+  {
+    "name": "SmartIndex",
+    "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+    "symbol": "SIDX",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xF05bD3d7709980f60CD5206BddFFA8553176dd29/logo.png"
   }
 ]
