@@ -278,5 +278,21 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x71df12B5A718e0110991BB641cb379077d9e8Ef7/logo.png"
+  },
+  {
+    "name": "TANGO",
+    "address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
+    "symbol": "TANGO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91/logo.png"
+  },
+  {
+    "name": "xTANGO",
+    "address": "0x98Ff640323C059d8C4CB846976973FEEB0E068aA",
+    "symbol": "XTANGO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x98Ff640323C059d8C4CB846976973FEEB0E068aA/logo.png"
   }
 ]
