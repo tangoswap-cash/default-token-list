@@ -334,5 +334,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xb4602588E5F1F9653B6F234206c91552E457fAcB/logo.png"
+  },
+  {
+    "name": "1BCH Token",
+    "address": "0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D",
+    "symbol": "1BCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D/logo.png"
   }
 ]
