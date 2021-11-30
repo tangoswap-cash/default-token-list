@@ -326,5 +326,13 @@
     "decimals": 8,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881/logo.png"
+  },
+  {
+    "name": "rBCH Token",
+    "address": "0xb4602588E5F1F9653B6F234206c91552E457fAcB",
+    "symbol": "rBCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xb4602588E5F1F9653B6F234206c91552E457fAcB/logo.png"
   }
 ]
