@@ -310,5 +310,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A/logo.png"
+  },
+  {
+    "name": "Decentralized Autonomous Organization",
+    "address": "0xca0235058985fcC1839E9e37c10900a73C126708",
+    "symbol": "DAO",
+    "decimals": 7,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xca0235058985fcC1839E9e37c10900a73C126708/logo.png"
   }
 ]
