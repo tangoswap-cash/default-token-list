@@ -262,5 +262,85 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91/logo.png"
+  },
+  {
+    "name": "DOGEBCH",
+    "address": "0x741746C2Cf4117730d7f087e8492dF595b4fd283",
+    "symbol": "DOGE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x741746C2Cf4117730d7f087e8492dF595b4fd283/logo.png"
+  },
+  {
+    "name": "SmartBCH Token Observer",
+    "address": "0xAFACB0004A91267b58e720E13DF570Dc6863c854",
+    "symbol": "STO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png"
+  },
+  {
+    "name": "SmartIndex",
+    "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+    "symbol": "SIDX",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xF05bD3d7709980f60CD5206BddFFA8553176dd29/logo.png"
+  },
+  {
+    "name": "Points",
+    "address": "0x71df12B5A718e0110991BB641cb379077d9e8Ef7",
+    "symbol": "PTS",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x71df12B5A718e0110991BB641cb379077d9e8Ef7/logo.png"
+  },
+  {
+    "name": "Incinerate",
+    "address": "0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E",
+    "symbol": "FIRE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E/logo.png"
+  },
+  {
+    "name": "FATCAT",
+    "address": "0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A",
+    "symbol": "$FATCAT",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A/logo.png"
+  },
+  {
+    "name": "Decentralized Autonomous Organization",
+    "address": "0xca0235058985fcC1839E9e37c10900a73C126708",
+    "symbol": "DAO",
+    "decimals": 7,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xca0235058985fcC1839E9e37c10900a73C126708/logo.png"
+  },
+  {
+    "name": "Bismuth Win Bi",
+    "address": "0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881",
+    "symbol": "BWB",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881/logo.png"
+  },
+  {
+    "name": "rBCH Token",
+    "address": "0xb4602588E5F1F9653B6F234206c91552E457fAcB",
+    "symbol": "rBCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xb4602588E5F1F9653B6F234206c91552E457fAcB/logo.png"
+  },
+  {
+    "name": "1BCH Token",
+    "address": "0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D",
+    "symbol": "1BCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D/logo.png"
   }
 ]
