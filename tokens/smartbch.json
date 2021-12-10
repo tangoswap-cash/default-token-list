@@ -350,5 +350,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xd8DE06b017857A821BA873D4F174B9580454f6c4/logo.png"
+  },
+  {
+    "name": "Volcano",
+    "address": "0xc07545D17e716CF7FF24ed0eb16A69157A33aaCd",
+    "symbol": "BURN",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc07545D17e716CF7FF24ed0eb16A69157A33aaCd/logo.png"
   }
 ]
