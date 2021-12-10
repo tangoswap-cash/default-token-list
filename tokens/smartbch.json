@@ -358,5 +358,13 @@
     "decimals": 9,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc07545D17e716CF7FF24ed0eb16A69157A33aaCd/logo.png"
+  },
+  {
+    "name": "Wenlambo",
+    "address": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
+    "symbol": "LAMBO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963/logo.png"
   }
 ]
