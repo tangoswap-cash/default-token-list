@@ -374,5 +374,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3/logo.png"
+  },
+  {
+    "name": "Centralized Autocratic Organization",
+    "address": "0x8358758D3952A0146560F3584d3b219ed631E1ea",
+    "symbol": "CAO",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x8358758D3952A0146560F3584d3b219ed631E1ea/logo.png"
   }
 ]
