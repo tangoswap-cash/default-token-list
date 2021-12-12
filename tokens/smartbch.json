@@ -366,5 +366,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963/logo.png"
+  },
+  {
+    "name": "Game",
+    "address": "0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3",
+    "symbol": "GAME",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3/logo.png"
   }
 ]
