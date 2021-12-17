@@ -342,13 +342,45 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D/logo.png"
-  }
+  },
   {
-    "name": "WenLambo",
+    "name": "Viegage Token",
+    "address": "0xd8DE06b017857A821BA873D4F174B9580454f6c4",
+    "symbol": "VTO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xd8DE06b017857A821BA873D4F174B9580454f6c4/logo.png"
+  },
+  {
+    "name": "Volcano",
+    "address": "0xc07545D17e716CF7FF24ed0eb16A69157A33aaCd",
+    "symbol": "BURN",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xc07545D17e716CF7FF24ed0eb16A69157A33aaCd/logo.png"
+  },
+  {
+    "name": "Wenlambo",
     "address": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
-    "symbol": "Lambo",
+    "symbol": "LAMBO",
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963/logo.png"
+  },
+  {
+    "name": "Game",
+    "address": "0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3",
+    "symbol": "GAME",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3/logo.png"
+  },
+  {
+    "name": "Centralized Autocratic Organization",
+    "address": "0x8358758D3952A0146560F3584d3b219ed631E1ea",
+    "symbol": "CAO",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x8358758D3952A0146560F3584d3b219ed631E1ea/logo.png"
   }
 ]
