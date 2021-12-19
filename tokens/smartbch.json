@@ -390,5 +390,13 @@
     "decimals": 9,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909/logo.png"
+  },
+  {
+    "name": "MoonMoonMoonMoon",
+    "address": "0x2b591190FF951F60CB9424664155e57A402c1AdE",
+    "symbol": "MoonMoonMoonMoon",
+    "decimals": 3,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
   }
 ]
