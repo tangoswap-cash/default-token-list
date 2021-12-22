@@ -382,5 +382,13 @@
     "decimals": 9,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x8358758D3952A0146560F3584d3b219ed631E1ea/logo.png"
+  },
+  {
+    "name": "GoCrypto",
+    "address": "0x4B85a666deC7C959e88b97814E46113601B07e57",
+    "symbol": "GoC",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x4B85a666deC7C959e88b97814E46113601B07e57/logo.png"
   }
 ]
