@@ -398,5 +398,13 @@
     "decimals": 3,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
+  },
+  {
+    "name": "GoCrypto",
+    "address": "0x4B85a666deC7C959e88b97814E46113601B07e57",
+    "symbol": "GoC",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4B85a666deC7C959e88b97814E46113601B07e57/logo.png"
   }
 ]
