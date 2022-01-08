@@ -5,7 +5,7 @@
     "symbol": "flexUSD",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72/logo.png"
   },
   {
     "name": "ORB",
@@ -13,7 +13,7 @@
     "symbol": "ORB",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e/logo.png"
   },
   {
     "name": "SPICE",
@@ -21,7 +21,7 @@
     "symbol": "SPICE",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xE11829A7D5d8806BB36E118461a1012588faFD89/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xE11829A7D5d8806BB36E118461a1012588faFD89/logo.png"
   },
   {
     "name": "Knuth",
@@ -29,7 +29,7 @@
     "symbol": "KTH",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc70c7718C7f1CCd906534C2c4a76914173EC2c44/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xc70c7718C7f1CCd906534C2c4a76914173EC2c44/logo.png"
   },
   {
     "name": "Green Ben",
@@ -37,7 +37,7 @@
     "symbol": "EBEN",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B/logo.png"
   },
   {
     "name": "CashCats",
@@ -45,7 +45,7 @@
     "symbol": "$CATS",
     "decimals": 2,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x265bD28d79400D55a1665707Fa14A72978FA6043/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x265bD28d79400D55a1665707Fa14A72978FA6043/logo.png"
   },
   {
     "name": "HONK",
@@ -53,7 +53,7 @@
     "symbol": "HONK",
     "decimals": 2,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd/logo.png"
   },
   {
     "name": "FLEX Coin",
@@ -61,7 +61,7 @@
     "symbol": "FLEX",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3/logo.png"
   },
   {
     "name": "MIST",
@@ -69,7 +69,7 @@
     "symbol": "MIST",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
   },
   {
     "name": "xMIST",
@@ -77,7 +77,7 @@
     "symbol": "XMIST",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xC41C680c60309d4646379eD62020c534eB67b6f4/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xC41C680c60309d4646379eD62020c534eB67b6f4/logo.png"
   },
   {
     "name": "Potato Coin",
@@ -85,7 +85,7 @@
     "symbol": "POTA",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0/logo.png"
   },
   {
     "name": "LAW",
@@ -93,7 +93,7 @@
     "symbol": "LAW",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
   },
   {
     "name": "KONRA",
@@ -101,7 +101,7 @@
     "symbol": "KONRA",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4F1480ba79F7477230ec3b2eCc868E8221925072/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x4F1480ba79F7477230ec3b2eCc868E8221925072/logo.png"
   },
   {
     "name": "Alpha",
@@ -109,7 +109,7 @@
     "symbol": "PHA",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x5a3bb59f34d60e9eb5643fb80c8d712275f6a96a/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x5a3bb59f34d60e9eb5643fb80c8d712275f6a96a/logo.png"
   },
   {
     "name": "HODL",
@@ -117,7 +117,7 @@
     "symbol": "HODL",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xB24D7763516bca9656779d760be9a32490f46E27/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xB24D7763516bca9656779d760be9a32490f46E27/logo.png"
   },
   {
     "name": "Zombie",
@@ -125,7 +125,7 @@
     "symbol": "ZOMBIE",
     "decimals": 0,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x80453acdfe0073d6743b27d72e06f48777eead80/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x80453acdfe0073d6743b27d72e06f48777eead80/logo.png"
   },
   {
     "name": "Smart BUSD",
@@ -133,7 +133,7 @@
     "symbol": "sBUSD",
     "decimals": 2,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x9288df32951386A8254aEaF80a66B78cCaf75b82/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x9288df32951386A8254aEaF80a66B78cCaf75b82/logo.png"
   },
   {
     "name": "CashKitten",
@@ -141,7 +141,7 @@
     "symbol": "$KITTEN",
     "decimals": 2,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711/logo.png"
   },
   {
     "name": "ShibaCash",
@@ -149,7 +149,7 @@
     "symbol": "Shiba",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2f309b9D47b1Ce7f0ec30a26baB2dEaB8c4ea5E9/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x2f309b9D47b1Ce7f0ec30a26baB2dEaB8c4ea5E9/logo.png"
   },
   {
     "name": "AxieBCH",
@@ -157,7 +157,7 @@
     "symbol": "AXIEBCH",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x3d13DaFcCA3a188DB340c81414239Bc2be312Ec9/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x3d13DaFcCA3a188DB340c81414239Bc2be312Ec9/logo.png"
   },
   {
     "name": "Bitcoin Cash Argentina",
@@ -165,7 +165,7 @@
     "symbol": "ARG",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x675E1d6FcE8C7cC091aED06A68D079489450338a/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x675E1d6FcE8C7cC091aED06A68D079489450338a/logo.png"
   },
   {
     "name": "MAZE",
@@ -173,7 +173,7 @@
     "symbol": "MAZE",
     "decimals": 6,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x481De06DCA0198844faA36FCa04Db364e5c2f86C/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x481De06DCA0198844faA36FCa04Db364e5c2f86C/logo.png"
   },
   {
     "name": "UatX Token",
@@ -181,7 +181,7 @@
     "symbol": "UAT",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a/logo.png"
   },
   {
     "name": "Ham Token",
@@ -189,7 +189,7 @@
     "symbol": "HAM",
     "decimals": 8,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52/logo.png"
   },
   {
     "name": "MILK",
@@ -197,7 +197,7 @@
     "symbol": "MILK",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0/logo.png"
   },
   {
     "name": "Cheese",
@@ -205,7 +205,7 @@
     "symbol": "CHEESE",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x09A4CDb1569563fF277aC457cED35fe2551aEC1D/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x09A4CDb1569563fF277aC457cED35fe2551aEC1D/logo.png"
   },
   {
     "name": "BCHPad",
@@ -213,7 +213,7 @@
     "symbol": "BPAD",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x9192940099fDB2338B928DE2cad9Cd1525fEa881/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x9192940099fDB2338B928DE2cad9Cd1525fEa881/logo.png"
   },
   {
     "name": "NomadCoin",
@@ -221,7 +221,7 @@
     "symbol": "NOMAD",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xEE1bA4e4C266C7cc071f5de5e6dc90965E608087/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xEE1bA4e4C266C7cc071f5de5e6dc90965E608087/logo.png"
   },
   {
     "name": "Joystick",
@@ -229,7 +229,7 @@
     "symbol": "JOYSTICK",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E/logo.png"
   },
   {
     "name": "Xolos",
@@ -237,7 +237,7 @@
     "symbol": "RMZ",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x49F9ECF126B6dDF51C731614755508A4674bA7eD/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x49F9ECF126B6dDF51C731614755508A4674bA7eD/logo.png"
   },
   {
     "name": "Celery",
@@ -245,7 +245,7 @@
     "symbol": "CLY",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91/logo.png"
   },
   {
     "name": "DOGEBCH",
@@ -253,7 +253,7 @@
     "symbol": "DOGE",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x741746C2Cf4117730d7f087e8492dF595b4fd283/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x741746C2Cf4117730d7f087e8492dF595b4fd283/logo.png"
   },
   {
     "name": "SmartBCH Token Observer",
@@ -261,7 +261,7 @@
     "symbol": "STO",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png"
   },
   {
     "name": "SmartIndex",
@@ -269,7 +269,7 @@
     "symbol": "SIDX",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xF05bD3d7709980f60CD5206BddFFA8553176dd29/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xF05bD3d7709980f60CD5206BddFFA8553176dd29/logo.png"
   },
   {
     "name": "Points",
@@ -277,7 +277,7 @@
     "symbol": "PTS",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x71df12B5A718e0110991BB641cb379077d9e8Ef7/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x71df12B5A718e0110991BB641cb379077d9e8Ef7/logo.png"
   },
   {
     "name": "TANGO",
@@ -285,7 +285,7 @@
     "symbol": "TANGO",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91/logo.png"
   },
   {
     "name": "xTANGO",
@@ -293,7 +293,7 @@
     "symbol": "XTANGO",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x98Ff640323C059d8C4CB846976973FEEB0E068aA/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x98Ff640323C059d8C4CB846976973FEEB0E068aA/logo.png"
   },
   {
     "name": "Incinerate",
@@ -301,7 +301,7 @@
     "symbol": "FIRE",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E/logo.png"
   },
   {
     "name": "FATCAT",
@@ -309,7 +309,7 @@
     "symbol": "$FATCAT",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A/logo.png"
   },
   {
     "name": "Decentralized Autonomous Organization",
@@ -317,7 +317,7 @@
     "symbol": "DAO",
     "decimals": 7,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xca0235058985fcC1839E9e37c10900a73C126708/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xca0235058985fcC1839E9e37c10900a73C126708/logo.png"
   },
   {
     "name": "Bismuth Win Bi",
@@ -325,7 +325,7 @@
     "symbol": "BWB",
     "decimals": 8,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881/logo.png"
   },
   {
     "name": "rBCH Token",
@@ -333,7 +333,7 @@
     "symbol": "rBCH",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xb4602588E5F1F9653B6F234206c91552E457fAcB/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xb4602588E5F1F9653B6F234206c91552E457fAcB/logo.png"
   },
   {
     "name": "1BCH Token",
@@ -341,7 +341,7 @@
     "symbol": "1BCH",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D/logo.png"
   },
   {
     "name": "Viegage Token",
@@ -349,7 +349,7 @@
     "symbol": "VTO",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xd8DE06b017857A821BA873D4F174B9580454f6c4/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xd8DE06b017857A821BA873D4F174B9580454f6c4/logo.png"
   },
   {
     "name": "Volcano",
@@ -357,7 +357,7 @@
     "symbol": "BURN",
     "decimals": 9,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc07545D17e716CF7FF24ed0eb16A69157A33aaCd/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xc07545D17e716CF7FF24ed0eb16A69157A33aaCd/logo.png"
   },
   {
     "name": "Wenlambo",
@@ -365,7 +365,7 @@
     "symbol": "LAMBO",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963/logo.png"
   },
   {
     "name": "Game",
@@ -373,7 +373,7 @@
     "symbol": "GAME",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3/logo.png"
   },
   {
     "name": "Centralized Autocratic Organization",
@@ -381,7 +381,7 @@
     "symbol": "CAO",
     "decimals": 9,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x8358758D3952A0146560F3584d3b219ed631E1ea/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x8358758D3952A0146560F3584d3b219ed631E1ea/logo.png"
   },
   {
     "name": "WOJAK",
@@ -389,7 +389,7 @@
     "symbol": "WOJAK",
     "decimals": 9,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909/logo.png"
   },
   {
     "name": "MoonMoonMoonMoon",
@@ -397,7 +397,7 @@
     "symbol": "MoonMoonMoonMoon",
     "decimals": 3,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
   },
   {
     "name": "GoCrypto",
@@ -405,7 +405,7 @@
     "symbol": "GoC",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4B85a666deC7C959e88b97814E46113601B07e57/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x4B85a666deC7C959e88b97814E46113601B07e57/logo.png"
   },
   {
     "name": "KidLambo",
@@ -413,7 +413,7 @@
     "symbol": "KidLambo",
     "decimals": 9,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/6ab01fec36887bb4cfc4552b5621c855ccc5f97c/blockchains/smartbch/assets/0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db/logo.png"
   },
   {
     "name": "CryptoSorted",
@@ -421,7 +421,7 @@
     "symbol": "CST",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B/logo.png"
   },
   {
     "name": "METADOR",
@@ -429,6 +429,6 @@
     "symbol": "META",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7e56D225f69A5b0D1C2FC47673A5c41328fC82e0/logo.png"
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7e56D225f69A5b0D1C2FC47673A5c41328fC82e0/logo.png"
   }
 ]
