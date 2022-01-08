@@ -430,5 +430,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7e56D225f69A5b0D1C2FC47673A5c41328fC82e0/logo.png"
+  },
+  {
+    "name": "Catsluck",
+    "address": "0x659F04F36e90143fCaC202D4BC36C699C078fC98",
+    "symbol": "CLK",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x659F04F36e90143fCaC202D4BC36C699C078fC98/logo.png"
   }
 ]
