@@ -406,5 +406,21 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4B85a666deC7C959e88b97814E46113601B07e57/logo.png"
+  },
+  {
+    "name": "KidLambo",
+    "address": "0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db",
+    "symbol": "KidLambo",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/6ab01fec36887bb4cfc4552b5621c855ccc5f97c/blockchains/smartbch/assets/0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db/logo.png"
+  },
+  {
+    "name": "CryptoSorted",
+    "address": "0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
+    "symbol": "CST",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B/logo.png"
   }
 ]
