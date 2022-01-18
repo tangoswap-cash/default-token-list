@@ -438,5 +438,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x659F04F36e90143fCaC202D4BC36C699C078fC98/logo.png"
+  },
+  {
+    "name": "BCHDAO",
+    "address": "0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2",
+    "symbol": "BCHDAO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2/logo.png"
   }
 ]
