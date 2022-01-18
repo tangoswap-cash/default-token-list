@@ -446,5 +446,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2/logo.png"
+  },
+  {
+    "name": "SmartDoge",
+    "address": "0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776",
+    "symbol": "SMART",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776/logo.png"
   }
 ]
