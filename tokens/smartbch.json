@@ -462,5 +462,13 @@
     "decimals": 8,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7/logo.png"
+  },
+  {
+    "name": "Zapit",
+    "address": "0xA27BB6F9D6b8fCCB3bD2b0cAf69c7Ce97549857f",
+    "symbol": "ZAPT",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xA27BB6F9D6b8fCCB3bD2b0cAf69c7Ce97549857f/logo.png"
   }
 ]
