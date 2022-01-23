@@ -302,8 +302,14 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E/logo.png"
-  },
-  {
+  },{
+    "name": "Döner",
+    "address": "0x14d9337f86d51dcad0d28f6439e00039e251b592",
+    "symbol": "DONER",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://i.imgur.com/4zuL2jP.png"
+  },{
     "name": "FATCAT",
     "address": "0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A",
     "symbol": "$FATCAT",
