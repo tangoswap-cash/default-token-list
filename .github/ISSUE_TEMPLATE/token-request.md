@@ -9,6 +9,7 @@ assignees: ''
 - [ ] I understand that token listing is not required to use the TANGOswap Interface with a token.
 - [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the TANGO default token list.
 - [ ] I will not ping the Discord about this listing request.
+- [ ] I have made sure there is a minimum of at least 5 BCH of liquidity available for this token on TangoSwap.
 
 **Please provide the following information for your token.**
 

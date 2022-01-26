@@ -112,6 +112,14 @@
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
   },
   {
+    "name": "LAW US Dollar",
+    "address": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
+    "symbol": "lawUSD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf/logo.png"
+  },
+  {
     "name": "KONRA",
     "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
     "symbol": "KONRA",
@@ -384,11 +392,99 @@
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x8358758D3952A0146560F3584d3b219ed631E1ea/logo.png"
   },
   {
+    "name": "WOJAK",
+    "address": "0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909",
+    "symbol": "WOJAK",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909/logo.png"
+  },
+  {
+    "name": "MoonMoonMoonMoon",
+    "address": "0x2b591190FF951F60CB9424664155e57A402c1AdE",
+    "symbol": "MoonMoonMoonMoon",
+    "decimals": 3,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
+  },
+  {
     "name": "GoCrypto",
     "address": "0x4B85a666deC7C959e88b97814E46113601B07e57",
     "symbol": "GoC",
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x4B85a666deC7C959e88b97814E46113601B07e57/logo.png"
+  },
+  {
+    "name": "KidLambo",
+    "address": "0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db",
+    "symbol": "KidLambo",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db/logo.png"
+  },
+  {
+    "name": "CryptoSorted",
+    "address": "0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
+    "symbol": "CST",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B/logo.png"
+  },
+  {
+    "name": "METADOR",
+    "address": "0x7e56D225f69A5b0D1C2FC47673A5c41328fC82e0",
+    "symbol": "META",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x7e56D225f69A5b0D1C2FC47673A5c41328fC82e0/logo.png"
+  },
+  {
+    "name": "Catsluck",
+    "address": "0x659F04F36e90143fCaC202D4BC36C699C078fC98",
+    "symbol": "CLK",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x659F04F36e90143fCaC202D4BC36C699C078fC98/logo.png"
+  },
+  {
+    "name": "BCHDAO",
+    "address": "0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2",
+    "symbol": "BCHDAO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2/logo.png"
+  },
+  {
+    "name": "SmartDoge",
+    "address": "0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776",
+    "symbol": "SMART",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776/logo.png"
+  },
+  {
+    "name": "SPACE",
+    "address": "0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7",
+    "symbol": "SPACE",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7/logo.png"
+  },
+  {
+    "name": "Zapit",
+    "address": "0xA27BB6F9D6b8fCCB3bD2b0cAf69c7Ce97549857f",
+    "symbol": "ZAPT",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xA27BB6F9D6b8fCCB3bD2b0cAf69c7Ce97549857f/logo.png"
+  },
+  {
+    "name": "Expected Value Entropy",
+    "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+    "symbol": "EVE",
+    "decimals": 7,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C/logo.png"
   }
 ]
