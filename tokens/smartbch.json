@@ -95,6 +95,14 @@
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
   },
+    {
+    "name": "LAW US Dollar",
+    "address": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
+    "symbol": "lawUSD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf/logo.png"
+  },
   {
     "name": "KONRA",
     "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
