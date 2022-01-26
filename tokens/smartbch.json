@@ -478,5 +478,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xA27BB6F9D6b8fCCB3bD2b0cAf69c7Ce97549857f/logo.png"
+  },
+  {
+    "name": "Expected Value Entropy",
+    "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+    "symbol": "EVE",
+    "decimals": 7,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C/logo.png"
   }
 ]
