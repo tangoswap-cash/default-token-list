@@ -486,5 +486,13 @@
     "decimals": 7,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C/logo.png"
+  },
+  {
+    "name": "DogLuck",
+    "address": "0xA019F70Ed3C02E861249B9e942bf4b88BCB408Df",
+    "symbol": "DLK",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xA019F70Ed3C02E861249B9e942bf4b88BCB408Df/logo.png"
   }
 ]
