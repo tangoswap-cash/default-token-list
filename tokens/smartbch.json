@@ -493,6 +493,6 @@
     "symbol": "ZAPT",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x23203d435e857EA63dEA5d43Fc098D29e3535FC5/logo.png"
+    "logoURI":"https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x23203d435e857EA63dEA5d43Fc098D29e3535FC5/logo.png"
   }
 ]
