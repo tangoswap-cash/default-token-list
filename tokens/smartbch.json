@@ -526,5 +526,13 @@
     "decimals": 8,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x20539E145b86A388683CB067dE576303aEC6DdE3/logo.png"
+  },
+  {
+    "name": "Doner",
+    "address": "0x14d9337F86d51DcAd0D28F6439e00039e251b592",
+    "symbol": "DONER",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x14d9337F86d51DcAd0D28F6439e00039e251b592/logo.png"
   }
 ]
