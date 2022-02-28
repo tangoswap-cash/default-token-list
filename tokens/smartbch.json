@@ -534,5 +534,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x14d9337F86d51DcAd0D28F6439e00039e251b592/logo.png"
+  },
+  {
+    "name": "Akita Inu",
+    "address": "0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5",
+    "symbol": "AKITA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5/logo.png"
   }
 ]
