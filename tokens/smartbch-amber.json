@@ -14,5 +14,21 @@
     "decimals": 18,
     "chainId": 10001,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4cA751A20FE9b130c0fa598DA21348B20108f51a/logo.png"
+  },
+  {
+    "name": "Bitcoin Cash Name Service",
+    "address": "0x0d5d28C1beC2f1Ca184765eEA30416b17D262C25",
+    "symbol": "LNS",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0d5d28C1beC2f1Ca184765eEA30416b17D262C25/logo.png"
+  },
+  {
+    "name": "LNSBar",
+    "address": "0x829cDc339EeF4dAA9CA0A7018cB991d94c6f821D",
+    "symbol": "xLNS",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x829cDc339EeF4dAA9CA0A7018cB991d94c6f821D/logo.png"
   }
 ]
