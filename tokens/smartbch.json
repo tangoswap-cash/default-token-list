@@ -473,7 +473,7 @@
   },
   {
     "name": "Zapit",
-    "address": "0xA27BB6F9D6b8fCCB3bD2b0cAf69c7Ce97549857f",
+    "address": "0x23203d435e857EA63dEA5d43Fc098D29e3535FC5",
     "symbol": "ZAPT",
     "decimals": 18,
     "chainId": 10000,
@@ -496,11 +496,59 @@
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x3b518F649f71d65E7160C1AaD640B6C17346145E/logo.png"
   },
   {
+    "name": "DogLuck",
+    "address": "0xA019F70Ed3C02E861249B9e942bf4b88BCB408Df",
+    "symbol": "DLK",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xA019F70Ed3C02E861249B9e942bf4b88BCB408Df/logo.png"
+  },
+  {
+    "name": "Goblin",
+    "address": "0x56381cB87C8990971f3e9d948939e1a95eA113a3",
+    "symbol": "GOB",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x56381cB87C8990971f3e9d948939e1a95eA113a3/logo.png"
+  },
+  {
+    "name": "Friend",
+    "address": "0x4592B88618119e55e37FFCb28EDE02beF6F3c5bA",
+    "symbol": "FRN",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x4592B88618119e55e37FFCb28EDE02beF6F3c5bA/logo.png"
+  },
+  {
     "name": "KAIJU",
     "address": "0x4f909dFE5Daaf94fbd1fD4C2E582F7608C87cd94",
     "symbol": "KAIJU",
-    "decimals":18,
+    "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x4f909dFE5Daaf94fbd1fD4C2E582F7608C87cd94/logo.png"
+  },
+  {
+    "name": "PumpParrots",
+    "address": "0x20539E145b86A388683CB067dE576303aEC6DdE3",
+    "symbol": "PUMP",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x20539E145b86A388683CB067dE576303aEC6DdE3/logo.png"
+  },
+  {
+    "name": "Doner",
+    "address": "0x14d9337F86d51DcAd0D28F6439e00039e251b592",
+    "symbol": "DONER",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x14d9337F86d51DcAd0D28F6439e00039e251b592/logo.png"
+  },
+  {
+    "name": "Akita Inu",
+    "address": "0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5",
+    "symbol": "AKITA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5/logo.png"
   }
 ]
