@@ -486,5 +486,13 @@
     "decimals": 7,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C/logo.png"
+  },
+  {
+    "name": "MrBurger",
+    "address": "0x3b518F649f71d65E7160C1AaD640B6C17346145E",
+    "symbol": "MrBurger",
+    "decimals": 6,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x3b518F649f71d65E7160C1AaD640B6C17346145E/logo.png"
   }
 ]
