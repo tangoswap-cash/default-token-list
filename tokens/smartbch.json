@@ -494,5 +494,13 @@
     "decimals": 6,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x3b518F649f71d65E7160C1AaD640B6C17346145E/logo.png"
+  },
+  {
+    "name": "KAIJU",
+    "address": "0x4f909dFE5Daaf94fbd1fD4C2E582F7608C87cd94",
+    "symbol": "KAIJU",
+    "decimals":18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x4f909dFE5Daaf94fbd1fD4C2E582F7608C87cd94/logo.png"
   }
 ]
