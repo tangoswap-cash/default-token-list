@@ -542,5 +542,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5/logo.png"
+  },
+  {
+    "name": "MGOT",
+    "address": "0x7DF65F158126898725f262378538B60db543C11A",
+    "symbol": "MGOT",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7DF65F158126898725f262378538B60db543C11A/logo.png"
   }
 ]
