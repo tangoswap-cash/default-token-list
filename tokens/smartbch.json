@@ -558,5 +558,21 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x387122d80A642581E5AD620696a37b98BB9272e7/logo.png"
+  },
+  {
+    "name": "Bitcoin Cash Name Service",
+    "address": "0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f",
+    "symbol": "LNS",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f/logo.png"
+  },
+  {
+    "name": "LNSBar",
+    "address": "0xBE7E034c86AC2a302f69ef3975e3D14820cC7660",
+    "symbol": "xLNS",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xBE7E034c86AC2a302f69ef3975e3D14820cC7660/logo.png"
   }
 ]
