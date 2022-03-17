@@ -550,5 +550,13 @@
     "decimals": 2,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7DF65F158126898725f262378538B60db543C11A/logo.png"
+  },
+  {
+    "name": "Joost.energy",
+    "address": "0x387122d80A642581E5AD620696a37b98BB9272e7",
+    "symbol": "JOOST",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x387122d80A642581E5AD620696a37b98BB9272e7/logo.png"
   }
 ]
