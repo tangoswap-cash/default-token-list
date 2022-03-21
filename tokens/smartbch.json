@@ -550,5 +550,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5/logo.png"
+  },
+  {
+    "name": "Narath",
+    "address": "0x0cb20466c0dd6454acf50ec26f3042ccc6362fa0",
+    "symbol": "NARATH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x0cb20466c0dd6454acf50ec26f3042ccc6362fa0/logo.png"
   }
 ]
