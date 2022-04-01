@@ -30,5 +30,13 @@
     "decimals": 18,
     "chainId": 10001,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x829cDc339EeF4dAA9CA0A7018cB991d94c6f821D/logo.png"
+  },
+  {
+    "name": "flexUSD Mock",
+    "address": "0xD0E6466293c6CdA8CaA96A57683909383c01411D",
+    "symbol": "FLEXUSDMOCK",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xD0E6466293c6CdA8CaA96A57683909383c01411D/logo.png"
   }
 ]
