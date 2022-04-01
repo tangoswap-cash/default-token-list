@@ -38,5 +38,21 @@
     "decimals": 18,
     "chainId": 10001,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xD0E6466293c6CdA8CaA96A57683909383c01411D/logo.png"
+  },
+  {
+    "name": "MIST",
+    "address": "0x3d2cd929D1fC1dA68D2557AB85336C2740b1Ae81",
+    "symbol": "MIST",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
+  },
+  {
+    "name": "xMIST",
+    "address": "0xceb95423B86c1823deC2Cc6F877997DC9349C2F1",
+    "symbol": "XMIST",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
   }
 ]
