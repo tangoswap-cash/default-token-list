@@ -574,5 +574,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xBE7E034c86AC2a302f69ef3975e3D14820cC7660/logo.png"
+  },
+  {
+    "name": "WyvernEgg",
+    "address": "0x7cCb2b0012cB821b908D3db353db922a1a71E963",
+    "symbol": "WVE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7cCb2b0012cB821b908D3db353db922a1a71E963/logo.png"
   }
 ]
