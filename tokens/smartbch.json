@@ -582,5 +582,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7cCb2b0012cB821b908D3db353db922a1a71E963/logo.png"
+  },
+  {
+    "name": "NFT Club Token",
+    "address": "0x8dd87b3f50bE9C6Ac5EC08458803843F0D294B3d",
+    "symbol": "NFTC",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x8dd87b3f50bE9C6Ac5EC08458803843F0D294B3d/logo.png"
   }
 ]
