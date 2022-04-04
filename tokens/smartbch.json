@@ -598,5 +598,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2/logo.png"
+  },
+  {
+    "name": "Narath",
+    "address": "0x0cB20466c0Dd6454ACF50eC26F3042CCC6362fa0",
+    "symbol": "NARATH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x0cB20466c0Dd6454ACF50eC26F3042CCC6362fa0/logo.png"
   }
 ]
