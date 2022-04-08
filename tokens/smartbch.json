@@ -558,5 +558,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x0cb20466c0dd6454acf50ec26f3042ccc6362fa0/logo.png"
+  },
+  {
+    "name": "PandaToken",
+    "address": "0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2",
+    "symbol": "PDA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2/logo.png"
   }
 ]
