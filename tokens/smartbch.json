@@ -552,11 +552,83 @@
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5/logo.png"
   },
   {
+    "name": "MGOT",
+    "address": "0x7DF65F158126898725f262378538B60db543C11A",
+    "symbol": "MGOT",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x7DF65F158126898725f262378538B60db543C11A/logo.png"
+  },
+  {
+    "name": "Joost.energy",
+    "address": "0x387122d80A642581E5AD620696a37b98BB9272e7",
+    "symbol": "JOOST",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x387122d80A642581E5AD620696a37b98BB9272e7/logo.png"
+  },
+  {
+    "name": "Bitcoin Cash Name Service",
+    "address": "0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f",
+    "symbol": "LNS",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f/logo.png"
+  },
+  {
+    "name": "LNSBar",
+    "address": "0xBE7E034c86AC2a302f69ef3975e3D14820cC7660",
+    "symbol": "xLNS",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xBE7E034c86AC2a302f69ef3975e3D14820cC7660/logo.png"
+  },
+  {
+    "name": "WyvernEgg",
+    "address": "0x7cCb2b0012cB821b908D3db353db922a1a71E963",
+    "symbol": "WVE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x7cCb2b0012cB821b908D3db353db922a1a71E963/logo.png"
+  },
+  {
+    "name": "NFT Club Token",
+    "address": "0x8dd87b3f50bE9C6Ac5EC08458803843F0D294B3d",
+    "symbol": "NFTC",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x8dd87b3f50bE9C6Ac5EC08458803843F0D294B3d/logo.png"
+  },
+  {
+    "name": "PandaToken",
+    "address": "0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2",
+    "symbol": "PDA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2/logo.png"
+  },
+  {
     "name": "Narath",
-    "address": "0x0cb20466c0dd6454acf50ec26f3042ccc6362fa0",
+    "address": "0x0cB20466c0Dd6454ACF50eC26F3042CCC6362fa0",
     "symbol": "NARATH",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x0cb20466c0dd6454acf50ec26f3042ccc6362fa0/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x0cB20466c0Dd6454ACF50eC26F3042CCC6362fa0/logo.png"
+  },
+  {
+    "name": "Goblins BCH",
+    "address": "0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c",
+    "symbol": "gBCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c/logo.png"
+  },
+  {
+    "name": "Africa Unite",
+    "address": "0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71",
+    "symbol": "MartinB",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71/logo.png"
   }
 ]
