@@ -622,5 +622,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c/logo.png"
+  },
+  {
+    "name": "Africa Unite",
+    "address": "0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71",
+    "symbol": "MartinB",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71/logo.png"
   }
 ]
