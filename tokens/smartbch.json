@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72/logo.png"
   },
   {
+    "name": "Ki",
+    "address": "0x4524cE998c2551CdA6d5763E0AD74153059B6207",
+    "symbol": "Ki",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x4524cE998c2551CdA6d5763E0AD74153059B6207/logo.png"
+  },
+  {
     "name": "ORB",
     "address": "0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e",
     "symbol": "ORB",
