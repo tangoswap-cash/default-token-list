@@ -1,6 +1,6 @@
 {
   "name": "@tangoswapcash/default-token-list",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "◦ The TANGOswap default token list",
   "main": "build/tangoswap-default.tokenlist.json",
   "scripts": {
