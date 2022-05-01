@@ -616,7 +616,7 @@
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c/logo.png"
   },
   {
-    "name": "LAD$",
+    "name": "LAD",
     "address": "0xB34cBd2821B4e2F2E1223D08A11258076746F886",
     "symbol": "LAD$",
     "decimals": 18,
