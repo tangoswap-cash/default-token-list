@@ -638,5 +638,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71/logo.png"
+  },
+  {
+    "name": "LAD",
+    "address": "0xB34cBd2821B4e2F2E1223D08A11258076746F886",
+    "symbol": "LAD$",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/ced3aa0b23be42145377ac8ca77ef0b389054259/blockchains/smartbch/assets/0xB34cBd2821B4e2F2E1223D08A11258076746F886/logo.png" //Since Logo hasnt been approved yet
   }
 ]
