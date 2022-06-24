@@ -686,5 +686,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xBCCD70794BB199B0993E56Bfe277142246c2f43b/logo.png"
+  },
+  {
+    "name": "BlockNG-Peg BCH Token",
+    "address": "0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195",
+    "symbol": "bcBCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195/logo.png"
   }
 ]
