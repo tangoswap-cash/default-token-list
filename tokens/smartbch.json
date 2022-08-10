@@ -718,5 +718,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195/logo.png"
+  },
+  {
+  "name": "Reward Lambo",
+  "address": "0x99142F54c0D91A57370a535B8b4F3ac7137DE944",
+  "symbol": "RLAM",
+  "decimals": 18,
+  "chainId": 10000,
+  "logoURI": "https://raw.githubusercontent.com/s30z2/staking-tests/farm/public/RLAMBO%20LOGO.png"
   }
 ]
