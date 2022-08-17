@@ -485,7 +485,7 @@
     "symbol": "ZAPT",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0xA27BB6F9D6b8fCCB3bD2b0cAf69c7Ce97549857f/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x23203d435e857EA63dEA5d43Fc098D29e3535FC5/logo.png"
   },
   {
     "name": "Expected Value Entropy",
