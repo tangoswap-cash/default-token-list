@@ -734,5 +734,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x0C79358Aa7A319dB86470e566c292a6b529449b1/logo.png"
+  },
+  {
+    "name": "Cedi Digital",
+    "address": "0x0f207C9A5De76219D0979D6a8D0d07287E265974",
+    "symbol": "GHSÞ",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/tangoswap-cash/assets/master/blockchains/smartbch/assets/0x0C79358Aa7A319dB86470e566c292a6b529449b1/logo.png"
   }
 ]
